@@ -1,157 +1,77 @@
-# Hi there, I'm Neha Yadav! 👋
+<h1 align="center">Hi 👋, I'm Neha Yadav</h1>
 
 <p align="center">
-  <p align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;AI+%26+Computer+Vision+Developer;Full-Stack+Engineer+%7C+Data+Analytics;OpenCV+%7C+MediaPipe+%7C+React+%7C+Node.js;Building+Smart+Digital+Systems" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=neha-9018" />
+  💻 Computer Science & Engineering Student <br/>
+  🌐 Full-Stack Developer | Data Analytics Enthusiast | IoT Explorer <br/>
+  📍 Based in India
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-🎓 Computer Science & Engineering Student passionate about building innovative software solutions.
-
-💻 Interested in Full-Stack Development, Artificial Intelligence, Data Analytics, Computer Vision, and Automation.
-
-🤖 Experienced in Python, OpenCV, MediaPipe, Machine Learning, and modern web technologies.
-
-📊 Focused on transforming raw data into meaningful insights through analytics and visualization.
-
-🌏 Currently learning Japanese (日本語).
-
----
-
-## 🔭 Currently Working On
-
-* AI-Powered Virtual Keyboard & Mouse using OpenCV and MediaPipe
-* Data Analytics and Business Intelligence Projects
-* Full-Stack Web Applications with React and Node.js
-* Computer Vision and Automation Systems
-
----
-
-## 💼 Experience
-
-### Data Analytics Intern | Infotact Solutions
-
-* Analyzed business datasets to extract insights
-* Built reports and dashboards for decision-making
-* Worked with real-world data analytics workflows
-* Supported business intelligence tasks
+- 🎓 B.Tech CSE student passionate about software development
+- 💡 Interested in Full-Stack Web Development, Data Analytics, and IoT systems
+- 🧠 Currently improving problem-solving and system design skills
+- 🔭 Working on real-world projects to become industry-ready
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages:**  
+Java • Python • JavaScript • C++
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
-</p>
+**Frontend:**  
+HTML • CSS • React • Tailwind CSS
 
-### Web Development
+**Backend:**  
+Node.js • Express • Java Spring Boot (if applicable)
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,express" />
-</p>
+**Database:**  
+MySQL • MongoDB
 
-### Database & Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
-</p>
+**Tools & Platforms:**  
+Git • GitHub • VS Code • Postman
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-### 🤖 AI Virtual Keyboard & Mouse
+### 🔹 Project 1: Full Stack Web App
+- Description: Brief explanation of your project
+- Tech: React, Node.js, MongoDB
+- Features: Authentication, CRUD, API integration
 
-Gesture-based system using OpenCV + MediaPipe for real-time hand tracking and control.
+### 🔹 Project 2: Data Analytics Dashboard
+- Description: Insights from real dataset
+- Tech: Python, Pandas, Matplotlib
 
-### 📊 Data Analytics Projects
-
-Dashboards and insights generated from structured datasets.
-
-### 🌐 Full-Stack Applications
-
-Responsive web apps built using React and Node.js.
+### 🔹 Project 3: IoT / Smart System Project
+- Description: Automation or sensor-based system
+- Tech: Arduino / Raspberry Pi / IoT tools
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neha-9018&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neha-9018&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neha-9018&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha-9018&layout=compact&theme=tokyonight" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neha-9018" />
 </p>
 
 ---
 
-## 🎯 Career Interests
+## 📫 Connect With Me
 
-* Full-Stack Development
-* Artificial Intelligence
-* Computer Vision
-* Data Analytics
-* IoT & Automation
-* Open Source Development
+- GitHub: https://github.com/neha-9018
+- LinkedIn: https://www.linkedin.com/in/neha-yadav-8299b8351/
+- Email: nehay9018@gmail.com
+- portfolio:https://my-port-folio-ccmer28ww-neha-yadavs-projects-e25a742e.vercel.app/
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/neha-yadav-8299b8351/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/neha-9018">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <b>Building intelligent solutions through software and innovation. 🚀</b>
-</p>
-
-
-<!--
-**neha-9018/neha-9018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *“Consistency beats talent when talent doesn’t work hard.”*
