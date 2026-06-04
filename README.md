@@ -1,77 +1,131 @@
 <h1 align="center">Hi 👋, I'm Neha Yadav</h1>
 
+<h3 align="center">
+Computer Science Engineering Student | Full-Stack Developer | Data Analyst | AI & Computer Vision Enthusiast
+</h3>
+
 <p align="center">
-  💻 Computer Science & Engineering Student <br/>
-  🌐 Full-Stack Developer | Data Analytics Enthusiast | IoT Explorer <br/>
-  📍 Based in India
+  <a href="https://github.com/neha-9018">
+    <img src="https://komarev.com/ghpvc/?username=neha-9018&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Data+Analytics+Enthusiast;AI+%26+Computer+Vision+Explorer;Building+Real+World+Projects+🚀" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 Professional Summary
 
-- 🎓 B.Tech CSE student passionate about software development
-- 💡 Interested in Full-Stack Web Development, Data Analytics, and IoT systems
-- 🧠 Currently improving problem-solving and system design skills
-- 🔭 Working on real-world projects to become industry-ready
+Computer Science Engineering student with strong interest in **Full-Stack Development, Data Analytics, Artificial Intelligence, and Computer Vision**.  
+Experienced in building **data-driven applications, automation systems, and AI-powered solutions** using modern technologies.
+
+Passionate about solving real-world problems through **software engineering, intelligent systems, and scalable applications**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Areas of Expertise
 
-**Languages:**  
-Java • Python • JavaScript • C++
+- Full-Stack Web Development  
+- Data Analytics & Visualization  
+- Artificial Intelligence & Machine Learning  
+- Computer Vision (OpenCV, MediaPipe)  
+- Internet of Things (IoT)  
+- Automation & Intelligent Systems  
+- Database Design & Management  
 
-**Frontend:**  
-HTML • CSS • React • Tailwind CSS
+---
 
-**Backend:**  
-Node.js • Express • Java Spring Boot (if applicable)
+## 💻 Technical Skills
 
-**Database:**  
-MySQL • MongoDB
+### 🧠 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
+</p>
 
-**Tools & Platforms:**  
-Git • GitHub • VS Code • Postman
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Project 1: Full Stack Web App
-- Description: Brief explanation of your project
-- Tech: React, Node.js, MongoDB
-- Features: Authentication, CRUD, API integration
-
-### 🔹 Project 2: Data Analytics Dashboard
-- Description: Insights from real dataset
-- Tech: Python, Pandas, Matplotlib
-
-### 🔹 Project 3: IoT / Smart System Project
-- Description: Automation or sensor-based system
-- Tech: Arduino / Raspberry Pi / IoT tools
+### 🎯 AI-Powered Virtual Keyboard & Mouse
+Gesture-controlled system using **OpenCV + MediaPipe** with real-time hand tracking and gesture-based interaction.
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Data Analytics Projects
+Built interactive dashboards and analytics systems for extracting insights from structured datasets using Python and visualization tools.
+
+---
+
+### 🌐 Full-Stack Web Applications
+Developed responsive web applications using **React, Node.js, Express, and MongoDB** with authentication and CRUD functionality.
+
+---
+
+
+## 🎓 Education
+
+**B.Tech – Computer Science & Engineering**
+
+Focused on:
+- Software Development  
+- Data Analytics  
+- Artificial Intelligence  
+- Emerging Technologies  
+
+---
+
+## 🌍 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neha-9018&show_icons=true&theme=default" />
+<a href="https://www.linkedin.com/in/neha-yadav-8299b8351/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/neha-9018">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="mailto:nehay9018@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://my-port-folio-ccmer28ww-neha-yadavs-projects-e25a742e.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel" height="45"/>
+</a>
+</p>
+
+---
+
+## 🚀 Open To Opportunities
+
+📌 Internships  
+📌 Full-Stack Development Roles  
+📌 Data Analytics Positions  
+📌 AI / ML Projects & Collaborations  
+
+---
+
+<p align="center">
+<b>⚡ Building technology that solves real-world problems ⚡</b>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neha-9018" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0055FF&height=120&section=footer"/>
 </p>
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/neha-9018
-- LinkedIn: https://www.linkedin.com/in/neha-yadav-8299b8351/
-- Email: nehay9018@gmail.com
-- portfolio:https://my-port-folio-ccmer28ww-neha-yadavs-projects-e25a742e.vercel.app/
-
----
-
-⭐ *“Consistency beats talent when talent doesn’t work hard.”*
