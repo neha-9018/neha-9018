@@ -1,11 +1,13 @@
 # Hi there, I'm Neha Yadav! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Software+Developer;Full-Stack+Development+%7C+AI+%7C+Data+Analytics;Computer+Vision+%26+IoT+Enthusiast;Learning+Japanese+%E6%97%A5%E6%9C%AC%E8%AA%9E" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full-Stack+Developer+%7C+AI+%7C+Data+Analytics;Computer+Vision+%26+Automation+Enthusiast;OpenCV+%7C+MediaPipe+%7C+React+%7C+Node.js;Building+Real+World+Projects" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=neha-9018&label=Profile%20Views&color=0e75b6&style=flat" />
+  <b>👀 Profile Visitors</b><br>
+  <img src="https://komarev.com/ghpvc/?username=neha-9018&label=Visitors&color=brightgreen&style=for-the-badge" />
 </p>
 
 ---
